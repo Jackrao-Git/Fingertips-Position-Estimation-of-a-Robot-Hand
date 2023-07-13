@@ -1,8 +1,8 @@
 # Fingertips Position Estimation of a Robot Hand
 
-## Project Description: In this project, the goal is to achieve the lowest RMSE for the task of Fingertips Position Estimation of a robot hand using the dataset provided.
+### Project Description: In this project, the goal is to achieve the lowest RMSE for the task of Fingertips Position Estimation of a robot hand using the dataset provided.
 
-## Project Evaluation: The evaluation metric used will be root mean squared error, i.e., a measure of the root of the average squared difference between the observed and predicted values. You should use the format specified in the submission evaluation code for making a submission. The first column consists of the sample ID, while the remaining 12 hold the fingertip position values.
+### Project Evaluation: The evaluation metric used will be root mean squared error, i.e., a measure of the root of the average squared difference between the observed and predicted values. You should use the format specified in the submission evaluation code for making a submission. The first column consists of the sample ID, while the remaining 12 hold the fingertip position values.
 
 
 In my project, I utilized a Kaggle notebook for efficient coding. The approach combined CNN and RNN methodologies to address the problem at hand effectively.
